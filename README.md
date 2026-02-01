@@ -2,8 +2,6 @@
 
 Projeto **profissional de portfólio** desenvolvido com **Angular** e **Angular Material**, demonstrando domínio em construção de interfaces modernas, componentização, boas práticas e arquitetura frontend.
 
-Este repositório foi criado com foco em **apresentação para recrutadores**, **LinkedIn** e **avaliações técnicas**.
-
 ---
 
 ## ✨ Visão Geral
