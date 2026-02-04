@@ -1,59 +1,217 @@
-# CrudAngularMaterial
+<<<<<<< HEAD
+# 🚀 CRUD Angular com Angular Material
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.1.1.
+Projeto de **CRUD (Create, Read, Update, Delete)** desenvolvido com **Angular** e **Angular Material**, focado em boas práticas, organização de código e interface moderna seguindo o Material Design.
 
-## Development server
+---
 
-To start a local development server, run:
+## 🧩 Tecnologias Utilizadas
+
+- ⚡ Angular (Angular CLI)
+- 🎨 Angular Material
+- 🟦 TypeScript
+- 🧱 HTML5
+- 🎨 CSS3
+- 📦 Node.js & NPM
+- 🛠️ Angular CLI
+- 💻 VS Code
+- 🔄 Git & GitHub
+
+---
+
+## 🎯 Funcionalidades
+
+✔️ Cadastro de registros  
+✔️ Listagem de dados  
+✔️ Edição  
+✔️ Exclusão  
+✔️ Interface responsiva com Angular Material  
+
+---
+
+## 📂 Estrutura do Projeto
+
+crud-angular-material/
+├── src/
+├── public/
+├── angular.json
+├── package.json
+└── README.md
+
+---
+
+## ⚙️ Como Executar
+=======
+# 💼 CRUD Angular com Angular Material
+
+Projeto **profissional de portfólio** desenvolvido com **Angular** e **Angular Material**, demonstrando domínio em construção de interfaces modernas, componentização, boas práticas e arquitetura frontend.
+
+---
+
+## ✨ Visão Geral
+>>>>>>> 8835a164fa72cbc7b6c61f0c62a407ae1b93c3e5
+
+Aplicação web do tipo **CRUD (Create, Read, Update, Delete)**, utilizando Angular e Angular Material para entregar uma experiência moderna, responsiva e alinhada ao Material Design.
+
+O projeto evidencia:
+- Organização de código
+- Uso correto do Angular
+- Interface limpa e profissional
+- Boas práticas de desenvolvimento frontend
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+- ⚡ **Angular** (Angular CLI)
+- 🎨 **Angular Material**
+- 🟦 **TypeScript**
+- 🧱 **HTML5**
+- 🎨 **CSS3**
+- 📦 **Node.js** & **NPM**
+- 🛠️ **Angular CLI**
+- 💻 **VS Code**
+- 🔄 **Git & GitHub**
+
+---
+
+## 🎯 Funcionalidades Implementadas
+
+✔️ Cadastro de registros  
+✔️ Listagem de dados em tabela  
+✔️ Edição de informações  
+✔️ Exclusão de registros  
+✔️ Interface responsiva  
+✔️ Componentes reutilizáveis  
+✔️ Padrão visual com Angular Material  
+
+---
+
+## 🧱 Arquitetura e Boas Práticas
+
+- Componentização seguindo o padrão Angular
+- Separação de responsabilidades
+- Organização clara de pastas
+- Tipagem forte com TypeScript
+- Código limpo e de fácil manutenção
+- Interface consistente com Material Design
+
+---
+
+## 📂 Estrutura do Projeto
 
 ```bash
+crud-angular-material/
+├── .github/
+├── .vscode/
+├── public/
+├── src/
+│   ├── app/
+│   ├── assets/
+│   └── styles.css
+├── angular.json
+├── package.json
+└── README.md
+```
+
+---
+
+## ▶️ Como Executar Localmente
+
+### Pré-requisitos
+- Node.js (LTS)
+- NPM
+- Angular CLI
+
+Instalação do Angular CLI:
+```bash
+npm install -g @angular/cli
+```
+
+Clone o repositório:
+```bash
+git clone https://github.com/gui929/crud-angular-material.git
+```
+
+Instale as dependências:
+```bash
+npm install
+```
+
+Execute o projeto:
+```bash
+git clone https://github.com/gui929/crud-angular-material.git
+cd crud-angular-material
+npm install
 ng serve
 ```
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+<<<<<<< HEAD
+Acesse: http://localhost:4200/
 
-## Code scaffolding
+---
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+## 🎨 Angular Material
 
-```bash
-ng generate component component-name
+Componentes utilizados:
+- MatTable
+- MatButton
+- MatInput
+- MatDialog
+- MatIcon
+- MatToolbar
+
+---
+
+## 👨‍💻 Autor
+
+Guilherme Fernando  
+GitHub: https://github.com/gui929
+=======
+Acesse:
+```
+http://localhost:4200/
 ```
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+--
 
-```bash
-ng generate --help
-```
+## 🎨 Angular Material
 
-## Building
+O projeto utiliza componentes do **Angular Material**, como:
 
-To build the project run:
+- `MatTable`
+- `MatButton`
+- `MatInput`
+- `MatDialog`
+- `MatIcon`
+- `MatToolbar`
 
-```bash
-ng build
-```
+Garantindo:
+- Interface moderna
+- Responsividade
+- Acessibilidade
+- Padronização visual
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+---
 
-## Running unit tests
+## 🚀 Próximos Passos
 
-To execute unit tests with the [Vitest](https://vitest.dev/) test runner, use the following command:
+- 🔗 Integração com API REST
+- 🧪 Implementação de testes unitários
+- 🔐 Autenticação e autorização
+- 📱 Melhorias de UX/UI
+- 🌐 Deploy em produção
 
-```bash
-ng test
-```
+---
 
-## Running end-to-end tests
+## 👨‍💻 Desenvolvedor
 
-For end-to-end (e2e) testing, run:
+**Guilherme Fernando**  
+Desenvolvedor Frontend | Angular  
 
-```bash
-ng e2e
-```
+🔗 GitHub: https://github.com/gui929  
+🔗 LinkedIn: *(https://www.linkedin.com/in/guilherme-oliveira-346779192/)*
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
+---
 
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+>>>>>>> 8835a164fa72cbc7b6c61f0c62a407ae1b93c3e5
