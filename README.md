@@ -28,17 +28,6 @@ Projeto de **CRUD (Create, Read, Update, Delete)** desenvolvido com **Angular** 
 
 ---
 
-## 📂 Estrutura do Projeto
-
-crud-angular-material/
-├── src/
-├── public/
-├── angular.json
-├── package.json
-└── README.md
-
----
-
 ## ⚙️ Como Executar
 =======
 # 💼 CRUD Angular com Angular Material
