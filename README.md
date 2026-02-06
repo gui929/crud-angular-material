@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🚀 CRUD Angular com Angular Material
 
 Projeto de **CRUD (Create, Read, Update, Delete)** desenvolvido com **Angular** e **Angular Material**, focado em boas práticas, organização de código e interface moderna seguindo o Material Design.
@@ -49,7 +48,6 @@ Projeto **profissional de portfólio** desenvolvido com **Angular** e **Angular 
 ---
 
 ## ✨ Visão Geral
->>>>>>> 8835a164fa72cbc7b6c61f0c62a407ae1b93c3e5
 
 Aplicação web do tipo **CRUD (Create, Read, Update, Delete)**, utilizando Angular e Angular Material para entregar uma experiência moderna, responsiva e alinhada ao Material Design.
 
@@ -213,5 +211,3 @@ Desenvolvedor Frontend | Angular
 🔗 LinkedIn: *(https://www.linkedin.com/in/guilherme-oliveira-346779192/)*
 
 ---
-
->>>>>>> 8835a164fa72cbc7b6c61f0c62a407ae1b93c3e5
