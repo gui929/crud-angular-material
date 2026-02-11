@@ -1,0 +1,36 @@
+.container {
+  max-width: 1100px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+.spacer {
+  flex: 1 1 auto;
+}
+
+.welcome-card {
+  margin-bottom: 30px;
+}
+
+mat-card-title {
+  text-align: center;
+  font-weight: 600;
+}
+
+.cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+}
+
+.info-card {
+  transition: transform 0.2s ease;
+  cursor: pointer;
+
+  &:hover {
+    transform: translateY(-5px);
+  }
+}
+.mt-20 {
+    margin-top: 20px;
+}   
